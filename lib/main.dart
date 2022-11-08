@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget
       title: 'Tasks',
       debugShowCheckedModeBanner: false,
        theme: ThemeData(
-        primarySwatch:Colors.pink,
+        primarySwatch:Colors.blueGrey,
         //primaryColor: Colors.black,
        ),
       home:HomeScreen(),
